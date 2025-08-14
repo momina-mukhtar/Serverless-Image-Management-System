@@ -171,7 +171,7 @@ sequenceDiagram
 │   ├── architecture.md        # System design
 │   ├── api.md                 # API reference
 │   ├── deployment.md          # Setup instructions
-├── diagrams/                 # Architecture visuals
+├── Architecture-diagram/                 # Architecture visuals
 ├── README.md                 # Project overview
 └── DEPLOYMENT.md             # Quick deployment guide
 
