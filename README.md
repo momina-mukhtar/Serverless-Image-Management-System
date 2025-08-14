@@ -36,7 +36,8 @@ The system follows an event-driven architecture that responds automatically to i
 
 ### Architecture Diagram
 
-![AWS Arch Diagram](./diagrams/architecture.png)
+![AWS Architecture](./Architecture-diagram.png)
+
 
 ### High-Level Architecture
 
